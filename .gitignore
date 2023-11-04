@@ -1,5 +1,5 @@
 node_modules/
-# Some garbo folders
+#*Some#garbo folders
 app/
 ibm-drone-details.md
 nodetello/
@@ -10,3 +10,4 @@ build/
 .cache/
 .next/
 .DS_store
+ 
